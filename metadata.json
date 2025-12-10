@@ -1,0 +1,5 @@
+{
+  "name": "NeuroNotion",
+  "description": "An AI-powered study assistant that transforms video transcripts into summaries, interactive mind maps, and quizzes.",
+  "requestFramePermissions": []
+}
